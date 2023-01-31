@@ -1,0 +1,104 @@
+#logo{
+    font-family: 'ALK Rounded Nusx Med';
+    color: rgb(0, 0, 0);
+    font-size: 23px;
+}
+a{
+    text-decoration: none;
+}
+.container-wide{
+    width: 100%;
+    margin: auto;
+}
+.d-flex{
+    display: flex;
+    flex-wrap: wrap;
+}
+.justify-btwn{
+    justify-content: space-between;
+}
+.align-center{
+    align-items: center;
+}
+.menu{
+    font-family: 'Arial GEO Bold';
+}
+.menu-part{
+    color: rgb(150, 67, 67);
+}
+header{
+    background-color: rgb(173, 173, 173);
+    padding: 25px 6% ;
+}
+
+nav{
+    width: 54%;
+}
+ul{
+    list-style: none;
+}
+section{
+    padding: 20px 0;
+    background-color: rgb(218, 217, 217);
+}
+.tittle{
+    margin: auto;
+    font-size: 28px;
+    font-family: 'BPG Boxo';
+}
+img{
+    width: 50%;
+    margin: auto;
+    padding: 20px;
+}
+
+.font-mrgvlovani{
+    padding: 0 15%;
+    font-size: 17px;
+    font-family: 'BPG Mrgvlovani';
+    color: rgb(79, 79, 79);
+    line-height: 20px;
+    margin: auto;
+}
+.small-tittle{
+    margin: auto;
+    padding: 20px 0;
+    font-size: 22px;
+    font-family: 'BPG Boxo';
+    color: rgb(68, 68, 68);
+}
+.footer-tittle{
+    font-size: 18px;
+}
+footer{
+    background-color: rgb(173, 173, 173);
+    padding: 25px 6% ;
+    justify-content: space-around;
+
+}
+.socialmedia{
+    margin: auto;
+}
+
+
+.subscription-container{
+    width: 30%;
+    background: transparent;
+    border: none;
+    border-bottom: 2px solid black;
+    padding-bottom: 12px;
+    font-size: 14px;
+}
+
+.inputs{
+    border: none;
+
+}
+
+li:hover{
+    opacity: 0.5;
+}
+
+.about-img{
+    border-radius: 100%;
+}
